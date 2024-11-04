@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Thao Ha
+
 My research interests lie in computer vision,natural language processing, affective computing, and multimodal representation learning.
+
 In addition to doing research, I also enjoy participating in startup projects
 
 <!--
