@@ -1,9 +1,9 @@
 ## Hi there 👋
-My name is Thao Ha
+My name is Thao Ha.
 
-My research interests lie in computer vision,natural language processing, affective computing, and multimodal representation learning.
+My research interests lie in computer vision, natural language processing, affective computing, and multimodal representation learning.
 
-In addition to doing research, I also enjoy participating in startup projects
+In addition to doing research, I also enjoy participating in startup projects.
 
 <!--
 **ivyha010/ivyha010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
